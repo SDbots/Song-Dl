@@ -1,16 +1,16 @@
 {
-    "name": "Song Dl",
+    "name": "Song-Dl",
     "description": "A bot that can download songs.",
     "keywords": [
-        "Song-dl",
+        "SongBot",
         "Song Downloader",
         "Telegram Bot",
+        "JE Bots"
     ],
-    "website": "https://damantha.tk/web",
     "repository": "https://github.com/sl-bot-Official/Song-Dl",
     "logo": "https://telegra.ph/file/b66dc540f61e3b606735c.jpg",
 
-    "success_url": "https://damantha.tk",
+    "success_url": "https://t.me/Infinity_BOTs",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
